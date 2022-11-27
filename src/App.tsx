@@ -10,7 +10,7 @@ import { clearInterval } from 'timers';
  */
 interface IState {
   data: ServerRespond[],
-  showGraph: boolean,
+  showGraph: boolean
 }
 
 /**
